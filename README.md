@@ -11,7 +11,7 @@ This repository contains a Power BI dashboard that visualises cancer outcomes ba
 
 To interact with the embedded Power BI report in the PowerPoint file, you must request permission. Please contact me to gain access.
 
-📧 **Request Access:** [najafikhah1370@gmail.com]
+ **Request Access:** [najafikhah1370@gmail.com]
 
 ##  Dashboard Features
 
