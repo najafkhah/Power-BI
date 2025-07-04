@@ -4,8 +4,8 @@ This repository contains a Power BI dashboard that visualises cancer outcomes ba
 
 ##  Files Included
 
-- `Cancer_Outcomes_Dashboard.pdf` – A static PDF export of the dashboard for quick viewing.
-- `Cancer_Outcomes_Dashboard.pptx` – An interactive PowerPoint file with embedded Power BI visuals (requires permission to access the dashboard).
+- `Cancer_project.pdf` – A static PDF export of the dashboard for quick viewing.
+- `Microsoft-Power-BI-Cancer.pptx` – An interactive PowerPoint file with embedded Power BI visuals (requires permission to access the dashboard).
 
 ##  Access to Power BI in PowerPoint
 
